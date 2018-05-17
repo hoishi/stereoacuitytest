@@ -1,0 +1,6 @@
+"env.mat" is environment, which is needed to run the experiment.
+Monitor detalis and distance from observer to a monitor.
+"env.mat" in this folder is for debug.
+the env.mat of the upper layer is for experiment setting.
+For example the env.viewDistance is closer than the env.mat of the upper layer.
+So, be careful not to mistake env you have to use.

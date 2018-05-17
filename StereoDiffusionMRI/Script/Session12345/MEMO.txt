@@ -1,0 +1,14 @@
+Function description
+Hiroki Oishi
+
+MakeCorrectPlot_many_session12345 plots each subject's psychometric curve.
+This code requires data files lower layer of ./paper_stereo_experiment_2018_5_11/Data/Stereoacuityestimate
+Result_session12345_StereoTestHaplo151201-4pos_SUBJECTNAME_YEARDATE.mat
+"MakePFPlot_4many.m" is its subfunction 
+
+s_stereoacuityfrommanycorrectrates_addoption estimate stereoacuity ofall subjects and bring together the streoauities.
+This script also requires data files lower layer of ./paper_stereo_experiment_2018_5_11/Data/Stereoacuityestimate
+Result_session12345_StereoTestHaplo151201-4pos_SUBJECTNAME_YEARDATE.mat
+
+  
+s_R2_stereoacuity brings together r-squared and stereoacuity into a mat.
